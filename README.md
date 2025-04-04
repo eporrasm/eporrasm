@@ -19,7 +19,6 @@ I'm **Emilio Porras**, a **Back-End Software Developer** passionate about buildi
 ### 📫 Contact Me
 - 📧 Email: [vals4oo@gmail.com](mailto:vals4oo@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/emilio-porras-843a91211)
-- 💻 [GitHub](https://github.com/eporrasm)
 
 ### ⚡ Fun Fact
 I enjoy learning new languages, both programming and human! 🌍 Currently, I speak **Spanish (Native), English (Bilingual), and German (Professional Working).**

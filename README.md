@@ -5,7 +5,7 @@ I'm **Emilio Porras**, a **Back-End Software Developer** passionate about buildi
 ### 🚀 About Me
 - 🎓 **Systems Engineer** from **Universidad Nacional de Colombia** (2024)
 - 💻 Experienced in **Java, Spring, Python, Django, AWS, and Docker**
-- 🔭 Currently working at **Axiacore** as a **Back-End Developer**
+- 🔭 Currently working at **GFT Technologies** as a **Back-End Developer**
 - 🌱 Always learning new technologies, especially in **Cloud Computing, Web Development and some Machine Learning**
 - 🤝 Open to collaborating on **interesting and impactful projects**
 - 💬 Ask me about **back-end development, API design, and system architecture**

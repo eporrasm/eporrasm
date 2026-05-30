@@ -15,6 +15,7 @@ I'm **Emilio Porras**, a **Back-End Software Developer** passionate about buildi
 - **Deep Learning Applications for Computer Vision**
 - **Introduction to Structured Query Language (SQL)**
 - **Java Programming: Arrays, Lists, and Structured Data**
+- **TOEFL C2 English Level (118/120)**
 
 ### 📫 Contact Me
 - 📧 Email: [vals4oo@gmail.com](mailto:vals4oo@gmail.com)

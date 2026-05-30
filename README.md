@@ -3,7 +3,7 @@
 I'm **Emilio Porras**, a **Back-End Software Developer** passionate about building scalable and efficient solutions.
 
 ### 🚀 About Me
-- 🎓 **Systems Engineer** from **Universidad Nacional de Colombia** (2024)
+- 🎓 **Systems Engineer** and **Computer Scientist** from **Universidad Nacional de Colombia** (2024 and 2026)
 - 💻 Experienced in **Java, Spring, Python, Django, AWS, and Docker**
 - 🔭 Currently working at **GFT Technologies** as a **Back-End Developer**
 - 🌱 Always learning new technologies, especially in **Cloud Computing, Web Development and some Machine Learning**
